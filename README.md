@@ -1,6 +1,6 @@
 # The SkyServer dataset for scrack repository
 
-Concatenate all the splitfiles to on file:
+Concatenate all the split files to a file:
 
     cat x* > skyserver.data
 
