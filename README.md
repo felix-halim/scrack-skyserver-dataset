@@ -1,5 +1,4 @@
-# scrack-skyserver-dataset
-The SkyServer dataset for scrack repository
+# The SkyServer dataset for scrack repository
 
 Concatenate all the splitfiles to on file:
 
